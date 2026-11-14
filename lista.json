@@ -1,0 +1,1261 @@
+{
+  "algoritmo": "ed25519",
+  "lista": {
+    "formato": 1,
+    "gerada_em": "2026-11-14T03:19:10.228Z",
+    "modelos": [
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-1.0",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-1.1",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-1.2",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-1.3",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-2.0",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-07-21",
+        "substituto": "claude-opus-4-8"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-2.1",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-07-21",
+        "substituto": "claude-opus-4-8"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-5-haiku-20241022",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-02-19",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-5-sonnet-20240620",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-28",
+        "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-5-sonnet-20241022",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-28",
+        "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-7-sonnet-20250219",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-02-19",
+        "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-haiku-20240307",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-04-20",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-opus-20240229",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-01-05",
+        "substituto": "claude-opus-4-8"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-3-sonnet-20240229",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-07-21",
+        "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-haiku-5-5",
+        "tipo": "conversa",
+        "fonte": "https://platform.claude.com/docs/en/about-claude/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 0.1,
+          "saidaUsdPor1M": 0.5
+        }
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-instant-1.0",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-instant-1.1",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-instant-1.2",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-11-06",
+        "substituto": "claude-haiku-4-5-20251001"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-opus-4-1-20250805",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-08-05",
+        "substituto": "claude-opus-4-8"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-opus-4-20250514",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-06-15",
+        "substituto": "claude-opus-4-8"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-opus-5-5",
+        "tipo": "conversa",
+        "fonte": "https://platform.claude.com/docs/en/about-claude/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 4,
+          "saidaUsdPor1M": 20
+        }
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-sonnet-4-20250514",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-06-15",
+        "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-sonnet-4-5-20250929",
+        "tipo": "conversa",
+        "fonte": "https://docs.claude.com/en/docs/about-claude/model-deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-11-30",
+        "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-sonnet-5-5",
+        "tipo": "conversa",
+        "fonte": "https://platform.claude.com/docs/en/about-claude/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 10
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "embedding-001",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-30",
+        "substituto": "gemini-embedding-2"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "embedding-gecko-001",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-30",
+        "substituto": "gemini-embedding-2"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.0-flash",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-06-01",
+        "substituto": "gemini-3.6-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.0-flash-001",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-06-01",
+        "substituto": "gemini-3.6-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.0-flash-lite",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-06-01",
+        "substituto": "gemini-3.1-flash-lite"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.0-flash-lite-001",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-06-01",
+        "substituto": "gemini-3.1-flash-lite"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.0-flash-lite-preview",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-12-09",
+        "substituto": "gemini-3.1-flash-lite"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.0-flash-lite-preview-02-05",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-12-09",
+        "substituto": "gemini-3.1-flash-lite"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-flash",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-01",
+        "substituto": "gemini-3.5-flash-lite",
+        "preco": {
+          "entradaUsdPor1M": 0.3,
+          "saidaUsdPor1M": 2.5
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-flash-lite-preview-09-2025",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-03-31",
+        "substituto": "gemini-3.1-flash-lite"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-flash-preview-05-20",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-11-18",
+        "substituto": "gemini-3.6-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-flash-preview-09-2025",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-02-17",
+        "substituto": "gemini-3.6-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-pro",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-01",
+        "substituto": "gemini-3.8-flash",
+        "preco": {
+          "entradaUsdPor1M": 1.25,
+          "saidaUsdPor1M": 10
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-pro-preview-03-25",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-12-02",
+        "substituto": "gemini-3.8-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-pro-preview-05-06",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-12-02",
+        "substituto": "gemini-3.8-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-2.5-pro-preview-06-05",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-12-02",
+        "substituto": "gemini-3.8-flash"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3-flash-preview",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 0.5,
+          "saidaUsdPor1M": 3
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3-pro-preview",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-03-09",
+        "substituto": "gemini-3.1-pro-preview"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.1-flash-lite",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-05-07",
+        "substituto": "gemini-3.5-flash-lite",
+        "preco": {
+          "entradaUsdPor1M": 0.25,
+          "saidaUsdPor1M": 1.5
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.1-flash-lite-preview",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-05-25",
+        "substituto": "gemini-3.1-flash-lite"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.1-pro-preview",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 12
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.5-flash-lite",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 0.3,
+          "saidaUsdPor1M": 2.5
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.6-flash",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 0.75,
+          "saidaUsdPor1M": 3.75,
+          "vigenteAte": "2026-12-31",
+          "seguinte": {
+            "entradaUsdPor1M": 1.5,
+            "saidaUsdPor1M": 7.5
+          }
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.8-flash",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 0.75,
+          "saidaUsdPor1M": 3.75,
+          "vigenteAte": "2026-12-31",
+          "seguinte": {
+            "entradaUsdPor1M": 1.5,
+            "saidaUsdPor1M": 7.5
+          }
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-4-argon",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 10,
+          "vigenteAte": "2026-11-30",
+          "seguinte": {
+            "entradaUsdPor1M": 4,
+            "saidaUsdPor1M": 20
+          }
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-4-carbon",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 10,
+          "vigenteAte": "2026-11-30",
+          "seguinte": {
+            "entradaUsdPor1M": 4,
+            "saidaUsdPor1M": 20
+          }
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-4-hydrogen",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-14",
+        "preco": {
+          "entradaUsdPor1M": 1.5,
+          "saidaUsdPor1M": 7.5
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-embedding-001",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2028-05-14",
+        "substituto": "gemini-embedding-2",
+        "preco": {
+          "entradaUsdPor1M": 0.15,
+          "saidaUsdPor1M": 0
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-embedding-2-preview",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-11-06",
+        "substituto": "gemini-embedding-2"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-embedding-exp",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-30",
+        "substituto": "gemini-embedding-2"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-embedding-exp-03-07",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-30",
+        "substituto": "gemini-embedding-2"
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "text-embedding-004",
+        "tipo": "embedding",
+        "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-01-14",
+        "substituto": "gemini-embedding-2"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "chatgpt-4o-latest",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-02-17",
+        "substituto": "gpt-5.1-chat-latest"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-0125",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-0301",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-09-13",
+        "substituto": "gpt-3.5-turbo"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-0613",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-09-13",
+        "substituto": "gpt-3.5-turbo"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-1106",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-09-28",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-16k-0613",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-09-13",
+        "substituto": "gpt-3.5-turbo"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-completions",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-3.5-turbo-instruct",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-09-28",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-0125-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-03-26",
+        "substituto": "gpt-5"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-0314",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-03-26",
+        "substituto": "gpt-5"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-0613",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-0613-completions",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-1106-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-1106-vision-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-12-06",
+        "substituto": "gpt-4o"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-32k",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-06-06",
+        "substituto": "gpt-4o"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-32k-0314",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-06-06",
+        "substituto": "gpt-4o"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-32k-0613",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-06-06",
+        "substituto": "gpt-4o"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-completions",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-turbo",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-turbo-2024-04-09",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-turbo-completions",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-turbo-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-03-26",
+        "substituto": "gpt-5"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-turbo-preview-completions",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-03-26",
+        "substituto": "gpt-5"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4-vision-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2024-12-06",
+        "substituto": "gpt-4o"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4.1-2025-04-14",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-01-14",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4.1-mini-2025-04-14",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-01-14",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4.1-nano",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4.1-nano-2025-04-14",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4.5-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-07-14",
+        "substituto": "gpt-4.1"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4o-2024-05-13",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4o-2024-08-06",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-01-14",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4o-2024-11-20",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-01-14",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-4o-mini-2024-07-18",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-01-14",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-2025-08-07",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-chat-latest",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-07-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-codex",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-07-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-mini",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-mini-2025-08-07",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-nano",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-nano-2025-08-07",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-pro",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5-pro-2025-10-06",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.1",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-04-01",
+        "substituto": "gpt-6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.1-2025-11-13",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-04-01",
+        "substituto": "gpt-6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.1-chat-latest",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-07-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.1-codex",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-07-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.1-codex-max",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-07-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.2-chat-latest",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-08-10",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.2-codex",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-07-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.3-chat-latest",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-08-10",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.3-codex",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-04-01",
+        "substituto": "gpt-6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.4-cyber",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-01"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.4-nano",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-04-01",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.4-nano-2026-03-17",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-04-01",
+        "substituto": "gpt-6-luna"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.5-cyber-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2027-02-01"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-6-luna",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 0.1,
+          "saidaUsdPor1M": 0.5
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-6.1-sol",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 10
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-6.1-terra",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 1,
+          "saidaUsdPor1M": 5
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o1",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o1-2024-12-17",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o1-mini",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-10-27",
+        "substituto": "o4-mini"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o1-preview",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-07-28",
+        "substituto": "o3"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o1-pro",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o1-pro-2025-03-19",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o3",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o3-2025-04-16",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o3-mini",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o3-mini-2025-01-31",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o3-pro",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o3-pro-2025-06-10",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-12-11",
+        "substituto": "gpt-6.1-sol"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o4-mini",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "o4-mini-2025-04-16",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/deprecations",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2026-10-23",
+        "substituto": "gpt-5.6-terra"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "text-embedding-3-small",
+        "tipo": "embedding",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-13",
+        "preco": {
+          "entradaUsdPor1M": 0.02,
+          "saidaUsdPor1M": 0
+        }
+      },
+      {
+        "fornecedor": "perplexity",
+        "id": "sonar-reasoning",
+        "tipo": "conversa",
+        "fonte": "https://docs.perplexity.ai/docs/resources/changelog",
+        "consultadoEm": "2026-11-14",
+        "saiEm": "2025-12-15"
+      }
+    ]
+  },
+  "assinatura": "WEC8dvSDJ9qSr+hqK2jrhBseo/zMbsmcM8kVh4H8vSxKoS2pWed42kNh0ko/mIjUL+I/ZIc01S5OJBj7eWukAg=="
+}
