@@ -2,7 +2,7 @@
   "algoritmo": "ed25519",
   "lista": {
     "formato": 1,
-    "gerada_em": "2026-11-14T03:19:10.228Z",
+    "gerada_em": "2026-11-16T13:43:54.709Z",
     "modelos": [
       {
         "fornecedor": "anthropic",
@@ -1255,7 +1255,31 @@
         "consultadoEm": "2026-11-14",
         "saiEm": "2025-12-15"
       }
+    ],
+    "modelosImagem": [
+      {
+        "fornecedor": "openai",
+        "id": "gpt-image-1-mini",
+        "tipo": "imagem",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-16",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 8
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-image-1.5",
+        "tipo": "imagem",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-16",
+        "preco": {
+          "entradaUsdPor1M": 5,
+          "saidaUsdPor1M": 32
+        }
+      }
     ]
   },
-  "assinatura": "WEC8dvSDJ9qSr+hqK2jrhBseo/zMbsmcM8kVh4H8vSxKoS2pWed42kNh0ko/mIjUL+I/ZIc01S5OJBj7eWukAg=="
+  "assinatura": "Cl2tn5ScCJNmZwOVrovHpftc8BifpvCK5A2iexSYaq9IH/3vW3/YfuFCYVo+14/dZcgO97Et9DQhIZ0m5rWuBg=="
 }
