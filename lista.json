@@ -2,7 +2,7 @@
   "algoritmo": "ed25519",
   "lista": {
     "formato": 1,
-    "gerada_em": "2026-11-16T13:43:54.709Z",
+    "gerada_em": "2026-11-23T16:04:16.931Z",
     "modelos": [
       {
         "fornecedor": "anthropic",
@@ -120,6 +120,28 @@
         "consultadoEm": "2026-11-14",
         "saiEm": "2025-07-21",
         "substituto": "claude-sonnet-5-5"
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-fable-5-2",
+        "tipo": "conversa",
+        "fonte": "https://platform.claude.com/docs/en/about-claude/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 8,
+          "saidaUsdPor1M": 40
+        }
+      },
+      {
+        "fornecedor": "anthropic",
+        "id": "claude-haiku-4-5",
+        "tipo": "conversa",
+        "fonte": "https://platform.claude.com/docs/en/about-claude/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 1,
+          "saidaUsdPor1M": 5
+        }
       },
       {
         "fornecedor": "anthropic",
@@ -304,6 +326,17 @@
       },
       {
         "fornecedor": "gemini",
+        "id": "gemini-2.5-flash-lite",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 0.1,
+          "saidaUsdPor1M": 0.4
+        }
+      },
+      {
+        "fornecedor": "gemini",
         "id": "gemini-2.5-flash-lite-preview-09-2025",
         "tipo": "conversa",
         "fonte": "https://ai.google.dev/gemini-api/docs/deprecations",
@@ -419,7 +452,12 @@
         "consultadoEm": "2026-11-14",
         "preco": {
           "entradaUsdPor1M": 2,
-          "saidaUsdPor1M": 12
+          "saidaUsdPor1M": 12,
+          "faixaPrompt": {
+            "acimaDeTokens": 200000,
+            "entradaUsdPor1M": 4,
+            "saidaUsdPor1M": 18
+          }
         }
       },
       {
@@ -506,6 +544,17 @@
         "preco": {
           "entradaUsdPor1M": 1.5,
           "saidaUsdPor1M": 7.5
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-4-neon",
+        "tipo": "conversa",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 3,
+          "saidaUsdPor1M": 15
         }
       },
       {
@@ -1053,6 +1102,17 @@
       },
       {
         "fornecedor": "openai",
+        "id": "gpt-5.4-mini",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 0.75,
+          "saidaUsdPor1M": 4.5
+        }
+      },
+      {
+        "fornecedor": "openai",
         "id": "gpt-5.4-nano",
         "tipo": "conversa",
         "fonte": "https://developers.openai.com/api/docs/deprecations",
@@ -1071,11 +1131,55 @@
       },
       {
         "fornecedor": "openai",
+        "id": "gpt-5.5",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 5,
+          "saidaUsdPor1M": 30
+        }
+      },
+      {
+        "fornecedor": "openai",
         "id": "gpt-5.5-cyber-preview",
         "tipo": "conversa",
         "fonte": "https://developers.openai.com/api/docs/deprecations",
         "consultadoEm": "2026-11-14",
         "saiEm": "2027-02-01"
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.6-luna",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 0.2,
+          "saidaUsdPor1M": 1.2
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-5.6-terra",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 12
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-6-astra",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-21",
+        "preco": {
+          "entradaUsdPor1M": 10,
+          "saidaUsdPor1M": 50
+        }
       },
       {
         "fornecedor": "openai",
@@ -1108,6 +1212,28 @@
         "preco": {
           "entradaUsdPor1M": 1,
           "saidaUsdPor1M": 5
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-6.2-astra",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-22",
+        "preco": {
+          "entradaUsdPor1M": 8,
+          "saidaUsdPor1M": 40
+        }
+      },
+      {
+        "fornecedor": "openai",
+        "id": "gpt-6.2-sol",
+        "tipo": "conversa",
+        "fonte": "https://developers.openai.com/api/docs/pricing",
+        "consultadoEm": "2026-11-22",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 10
         }
       },
       {
@@ -1258,6 +1384,54 @@
     ],
     "modelosImagem": [
       {
+        "fornecedor": "gemini",
+        "id": "gemini-3-pro-image",
+        "tipo": "imagem",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-22",
+        "preco": {
+          "entradaUsdPor1M": 2,
+          "saidaUsdPor1M": 120,
+          "saidaTextoUsdPor1M": 12
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.1-flash-image",
+        "tipo": "imagem",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-22",
+        "preco": {
+          "entradaUsdPor1M": 0.5,
+          "saidaUsdPor1M": 60,
+          "saidaTextoUsdPor1M": 3
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-3.1-flash-lite-image",
+        "tipo": "imagem",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-22",
+        "preco": {
+          "entradaUsdPor1M": 0.25,
+          "saidaUsdPor1M": 30,
+          "saidaTextoUsdPor1M": 1.5
+        }
+      },
+      {
+        "fornecedor": "gemini",
+        "id": "gemini-nano-banana-2.1",
+        "tipo": "imagem",
+        "fonte": "https://ai.google.dev/gemini-api/docs/pricing",
+        "consultadoEm": "2026-11-22",
+        "preco": {
+          "entradaUsdPor1M": 1.5,
+          "saidaUsdPor1M": 30,
+          "saidaTextoUsdPor1M": 7.5
+        }
+      },
+      {
         "fornecedor": "openai",
         "id": "gpt-image-1-mini",
         "tipo": "imagem",
@@ -1281,5 +1455,5 @@
       }
     ]
   },
-  "assinatura": "Cl2tn5ScCJNmZwOVrovHpftc8BifpvCK5A2iexSYaq9IH/3vW3/YfuFCYVo+14/dZcgO97Et9DQhIZ0m5rWuBg=="
+  "assinatura": "+3XCtKktgA8T4Ov2kKAJ9YWM+i8nSrcE/A4+q3zPPn5RoKphcQ3iNaX9Ld93KvTTnwd/E+XoboiNzLQqVD14AQ=="
 }
